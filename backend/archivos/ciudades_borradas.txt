@@ -1,0 +1,2 @@
+{"id":15,"nombre":"Glew","poblacion":666,"pais":"Argentina","pathFoto":"Glew.Argentina.004750.jpg"}
+{"id":13,"nombre":"Longchamps","poblacion":1234,"pais":"Argentina","pathFoto":"Longchamps.Argentina.004715.jpg"}
